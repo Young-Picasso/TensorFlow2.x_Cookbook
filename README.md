@@ -3,7 +3,7 @@
 This repository is a compilation of Juypter Notebooks with completed TensorFlow2.x recipes. It serves both as a guide for common how-to's in TensorFlow, and allows extension and variation of the recipes to suit ones requirements.
 
 
-Note that the following recipes are currently note complete:
+Note that the following recipes are currently not complete:
 
 Chapter 9: Open-domain question answering, Text generation.
 
